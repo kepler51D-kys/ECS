@@ -1,6 +1,6 @@
 #pragma once
 #include "vector"
-#include "../headers_premade/types/vectors.hpp"
+#include "../headers_autogen/vectors/vectors.hpp"
 #include "../headers_premade/types/basic.hpp"
 
 namespace component {
