@@ -1,0 +1,11 @@
+includes: [vector,../headers_premade/types/vectors.hpp,../headers_premade/types/basic.hpp]
+
+Position3D: [f32 x, f32 y, f32 z]
+Position2D: [f32 x, f32 y]
+
+Speed3D: [f32 x,f32 y, f32 z]
+Speed2D: [f32 x,f32 y]
+
+Mesh3D: [std::vector<v3<f32>> vertices]
+
+RigidBody3D: [u32 Position, v3<f32> Speed]
